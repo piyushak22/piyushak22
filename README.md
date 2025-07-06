@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Piyusha!
 
-🔍 **Software Developer** | 📊 **Aspiring data scientist** | 🚀 **AI Explorer**
+🔍 **Software Engineer** | 📊 **Data Scientist** | 🚀 **AI Explorer**
 
 ---
 
@@ -10,7 +10,7 @@ Python 🐍, Java⚡, SQL 🛢️, R 📊, JavaScript 🚀, HTML 🏗️, CSS �
 ## 🛠️ Tools of My Trade:
 - **Frontend**: React ⚛️, Next.js ⚡, Tailwind CSS 🎨, Bootstrap 🏗️
 - **Backend**:  Node.js 🌍, Django 🦄, FastAPI⚡, PostgreSQL 🐘, MySQL 🏦, MongoDB 🍃, Firebase 🔥
-- **APIs & Microservices**: RESTful APIs 🌐, Docker 🐳, Kubernetes 🚢
+- **APIs & Microservices**: RESTful APIs 🌐, Docker 🐳,Postman , Selenium
 - **Data science and analytics**: Power BI 📊, MS Excel (Power Query, Pivot Tables) 🔄, Pandas 🐼, NumPy 🔢, Scikit-learn 🤖, 
  TensorFlow 🔥
 ---
