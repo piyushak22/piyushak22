@@ -1,11 +1,11 @@
 # 👋 Hey there, I’m Piyusha!
 
-🔍 **Software Engineer** | 📊 **Data Scientist** | 🚀 **AI Explorer**
+🔍 **Software Engineer** | 📊 **Data Analyst** | 🚀 **AI Explorer**
 
 ---
 
 ## 💻 Languages I Speak:
-Python 🐍, Java⚡, SQL 🛢️, R 📊, JavaScript 🚀, HTML 🏗️, CSS 🎨
+Python 🐍, Java⚡, SQL 🛢️, R 📊, JavaScript 🚀, HTML 🏗️, CSS 🎨, C#⚡
 
 ## 🛠️ Tools of My Trade:
 - **Frontend**: React ⚛️, Next.js ⚡, Tailwind CSS 🎨, Bootstrap 🏗️
